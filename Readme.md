@@ -2,7 +2,7 @@
 
 * Студент: [Никита Макаренко](https://up.htmlacademy.ru/htmlcss/38/user/1985335).
 * Наставник: [Алексей Симоненко](https://htmlacademy.ru/profile/simonenko).
-
+* Сайт: https://nikitamakarenkoa.github.io/1985335-sedona-38/
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
